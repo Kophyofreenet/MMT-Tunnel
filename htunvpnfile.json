@@ -1,0 +1,41 @@
+{
+"version": 1,
+"message": "What's new \nAdded new server",
+
+"files": [
+
+{
+         //server-1
+         "config": "py6JFglu3HoMEmzFCgYJ0QY/yl+w4vA41TIdR16f1BTky/gSRWgR9yMp2EUdoWhf95Zc+0a/W4LRHr1heezg4CQIUtjCuxAyQ9if0KNKEHFwX6ND1uaJ/0c+ubaypRqxiIuTIoEMhskQlLPaBpqrjlaxmOaau/0p7Xg9kmQQK+A5lL6QpeoeXHt0M9BO0yj7lU5iR34U51264kAJsrPVggAiK9b+3iSs1xQi0NqUPWx81Y4xXUsDJNLECQrosbseZQpjRtMJU2amrEjPnxXNyoA8Qc0SgslFTH7+IRCfnDt+Tpkt9WwbCV5k4MbSkaY8cJZcRXoKmlFfAnjSsk1k/G2LqfPLTnLFEOYfPJT6C5VEnJkQOfZJvMXdFwR/1IeaHf21oeXjYJhCq3AMWP9as0WcSUDERrq0DCMI+U7hq5rNk3m4BNLEQxB6Tkg="
+     
+},
+
+
+{
+         //server-2
+         "config": "V5DHp+VRuayX8tRvlYwP/IbZi7KcMANzlhhNvzS/YhnAIXAkL4L5tfKs4Pq4RNMjV/NXcZNaWrfM5AiRitTdgcO9Af1Vrii3QUeghZmHpIH3zOxthpceQK/axlJ18HN72uC/0if3Pw25M0UHwAyMsoX10I2zOt6xLNUrv8ntt5PlH84P2GFkkRaP1dZ4GhD0jh1nFZAfJi80OQYPS6tr50FSqJjUJsv4xx8j6nuc78VDfMbkuklhcLC5vwAuc7Usi/3MhEFrzIepCg0MHCamxTUCXjoFZa+Xm8OChadWNoZVzygW8lcC0xUNijB8d/0i1R9HQLM1zwxswdiGGqtXzP7v+Wz0ww1qw9rIVEttCEIKtcZUvKyqi1RswpysT/Nb9JmoZURgZPRGgumx71wy4nvKhvL11ie7txmDeAUqELZBNrbvkNMSP9dRD36xss+q2fY69w=="
+     
+},
+
+
+
+{
+        //server-3
+      "config": "ZADuKv+LcmdcIz4xxMNQmAJ1gCoPCJYVJLjze9XDP+d/kVBO0ARdcAbwwnlgXDlDI6hMFEj1ixGAuvi1gDmL6njh3F5nvmGU6p/P14SKyVTICDWneIKaQyTcf64wRixJEVjc2hHfo8u74vi0PCMOuTzw5KDD/ydgOtRRhFlBNavUfD/eI6Ds5JpWd0C1xN3ZtnAYe6nt3Hc+fCEKm3FfD5hPSHWT9sSEzCTVelVqocEg3XYtHGFctSCiUe3PbQ+D6PA3SI6MXwrEWTIp0IbnTE3pnbY9Q5chtS1CrpjG86/3cEWor7bCuwUeM+LgddiVK/H5QrWt1OKmkzEqjFRT5mn2+/WVPHP4DpdgSqZkFIcfde8KIhNaphQmL4VMiLimnOjj4aS7v8dlbtCyia5qLzC/Tol4Ls1idWpDMAAJuE/Fb3UF+MOZqKJCGF4="
+      
+      }
+      
+
+   ],
+
+
+
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင် စမက်မလိုဘေလ်မလို ဆင်းကဒ်အသက်ရှိရင်ရပါပြီဗျာ့",
+
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင် စမက်မလိုဘေလ်မလို ဆင်းကဒ်အသက်ရှိရင်ရပါပြီဗျာ့",
+
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင် ပက်ကေ့ချ်နှစ်မျိုးဝယ်စမက်မှယခုVipအသုံးပြုလို့ရမှာပါဗျာ့"
+
+
+
+}
