@@ -1,1 +1,39 @@
+{
+"Reward": "ca-app-pub-3940256099942544/5224351111",
+"Inter": "ca-app-pub-8283881532539011/3706821111",
+"version": 1,
+"message": "What's new \nAdded new server",
 
+"files": [
+
+{
+         //server-1
+         "config": "XWvR9QxbnIb0DO5NTmRWvrx7WV0eKB8mj/RSzWN5XP1F0TkuFEaOBXFBgzIxRaNLUsPZRJsz1SeIocBKb7zJzhbQjNyNHfmRTrbq2qKi0guLrRG14lG0Tupx81Pax8XTRbiRWwKW7auYJR7jrSaCaVZDtKWKbyg2M5k8riv46A/Rv9lMmVyeZmmncedqTaPzPLNWdMAO/CEyZlTHv55QZ+tTRsZlBY6Ex9dC2dqHF9tGdy0sppKnXlsSG+F8uNO0TZHPHW02KC4xKKi95BbhRAXBJf7hgDiBhgYx8E5Gb6idXT1LvXO1hvD8gHl1tqOJErUX7Gg9zkhvltL1s18+8O0y/ryYx/Hf1JYHN+N3iqJW9+PlPZ6C7iCPeZMdxqZ+UiqdWju4mF/1TGi2uW4MJ175wD8awJT1lwHh8ARmFTV0nVDu"
+     
+},
+{
+        //server-2
+      "config": "mpwh8XdFNjjCtAnY7uEv9uAORkQZqDsBBK565ktaqzPlzepmHuhyDS6f9+rWH0p0+TxEeTTb/x+MBKnivvkl0crh3V757RIzvmFvrjETwWzG3Dwe6HsD8u3QKedJUolsmwNM0DBc5kEH/n0Zzpq/KUSOWzcJH7rDWuJkM+3IqpQ1nFtX4G1WoDE8Ey+HF6hdv38apYakoeuRFzXbTpMib+HXrhm5wVAFUyT0GmDbMWEqvoFXIPdXOOX4MPPI31c0ema152TbNGLnZnaWmyKX48Gb7OTRJgmuS/7ALZDvDhsKDhBUSSFKwqXw/8410PFHW4kptBp4CRYCC48r2LQMLb7sAFOhe7lm3xVh+h39BplUpFWh6ILtoknU+Xvj9KKCQ6I4U+9jhMNIE5qsrklaIcADFA/HOa3H4bq2i7bo3vbnb3C4aGn3gtYtHhZHDjSy"
+      
+      },
+      
+
+{
+        //server-3
+      "config": "94XwVzc/NXI4j2sggsEtvlGNCEUr/p4t5GX6htyr8DdLn1SivHmtbKOY87Qtz7Y3++YfdGXYngOhbwt50ApUsVT3kL+wvC0a3h1tH3X/xY6TL/HnCK9ehQ+9vdgpNE4dJTG5eqRR6lr3UNw5R6/yPps6dATEOpobUlwi98NQwASJJJCu8bO8e0F7l4gLciJ6rr2Q63yQVngiyIVH0C9m4Otfy0tbQOjxXgefDVy7+b0d6hZH/bSjgW+Gx43Bv/4CU/otHuwQpMnEQidgJQsX31g5NNtcewXKK4RHWO4tznLYUjGRfZ7xmeBGTwIo2YE+hHd/CUVWpMr1zXSRzkh/CYiSN+EKmNA4XSE6UYV4NVsZ4chPQImiiIU+j2rnd9+SGeyvraNz82CNHCGxuF/KgOxKtH84beuqGyqsUpqT8Qw0+/NqUnOPuQ=="
+      
+      }
+
+   ],
+
+
+
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
+
+
+
+}
