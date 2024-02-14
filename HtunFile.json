@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224351111",
 "Inter": "ca-app-pub-8283881532539011/3706821111",
-"version": 1,
+"version": 2,
 "message": "What's new \nAdded new server",
 
 "files": [
@@ -12,15 +12,29 @@
      
 },
 {
-        //server-2
+         //server-2
+         "config": "LOMM5LjvNAqQuZpexsKFARqwMaJXod/IFQXDRBocP7s8LYJ3k62P9Ul2sor8ZJlvvAHn0KAO2B+6HvP+FkHtu4G+3ADJTHa8u54GRDXf3zVg5r9w+RNnjKpL5yUBIOeQJaRzb42G3CJ18uaNOaEkBe80Og3sabh71rTiOOAaYNTLnVLZ1ZFo3ZzNCGGEiDM2HQCti6av5rRBKdzj+GhEv0ZovBnY8TUClwlBCyeK3lv4bh6ISkRCDjMLg7kf2uGR6NA+9SoEnSDw+OLJ973uw92KaWCbLGoctTWfY7NO8hW2RSkWnQLWgdJ/bVWHocilluZcDVk5prF8KRyWAAqitcr/dfSWk/f+jya5cBLAKIYd3OM7H7lNazRATw7RBfaBQq8GcPse+5Hgk4CknoKhPAA38+BXAB3mpu1ArVubntQ="
+     
+},
+{
+        //server-1
       "config": "5W2QX5VFqMI12fmdJlFE5fJ9e4C0TlLAZMFTQZizFigdMutCSXe9e+CnftUVfZ2NpsWcurdan8fGLAuHZx1+/hjyblBvPBNRFHN+rJ8O3NZNlUym1iVRX8/OI2AaYA9gP0o5l4BtZ+Swd8lV9Z4OfsclV11xmZ52HutWlKgjqyWOMWjOFkFAETrH0VqG8f5uXy2rzd63t1oV89AuWOcNJlZrrEb22IDT9LRTB8rA1peWCn43UJwa989/jzTZ6v5NA+g4seo84Y9sY2lt0DIZN/vRgw1PdldwRTfa+kNX3ByE4hvHKqR5+3nxJ8USEYyFWeSSqQnl/vKeAAiX2p0UfVKyco18tBn5i3MMi69j4WTTXC/k9JC+xeopUgmOD6nfKA5juk7aN26oG+1zpZYOh5m7yvHqpWy3yu8Dvz7bvEYazgboKr/CxQ=="
       
       },
+      {
+        //server-2
+      "config": "AzD4e9BQ9cKRWjXlAXyhM0mSoPtPMn1QIHihmUADjWWAXN3+bsxCSOmVD9qj/Q+L7kLStWl86eODxWKKmPHVFv70Kv6L8GegMnXVx2DQtaqePLhQmfkbwj7q+7qzvUJ0dUNFhW2wnDKGR0wbJGazYL4UxsMedQ3fbVlYndLPxz9o9fEmDWytoa2ZNDcUXEa5RePhGshJqla+f8zJB1HKTo4o6Jt7PWvsCJcWJosgVKmYf0Jc3jpEA3p314rbe4TQMnjvX70JQGwot1IGrm1A7W/K0CFoipLDSkQkR1Geq4N3jiXamqO86bPtxZ0Mr9nkr4MH10PeLmILO9FC/oS8h+lhxfKhCBr3FfIQg9VZZB55klkTmzETJFhcJsyvLzjp9ziuZRdjalYhjqMVHU2j4xZpa3ELz76BaQgePNu/BGxPRkvuWNaNxQ=="
       
+      },
 
 {
-        //server-3
+        //server-1
       "config": "Cqwwxh08ezAB6PB8QFg268B1A0uWCdrGw4UzFoMyDYWLJzOA6HLBxATptlFyQ/sxrqCeeg585So+YZZvb9VdHVcLzfoIQ2fuziqngaDTwS8Qte3jYIrkEo0YTvMuzlIq5BlKNWpA9BRSm3ooEKOsY/uvrurxU+Y25m/3zgPZTyo33hAl3szw456hh7wt9bC1Y795Jbxpr1HNNTQig3DVyPmHkpYeUvvMrF2YFAOuWzh9h0+zOG1dUdpvz3P6CawUw/cDmVTKTIqikZ75tK4lM9nLcrujBL8yYs3jkrlUcmvndlilNfOEZQjmwfi/7uTjPtJ4MRnsWW387xqFfvPMyHhp+WnhA6B8/FmBNY1HaKOuxgtQPjSW8xlJvJM2bDQM6iEKBnWaL9XIQ+NkCsecf0LeXfocY9aaEXR5cJgX068="
+      
+      },
+{
+        //server-2
+      "config": "WFaAMoJh1LXtCupKcfX+gHXh03CyLecn9jwZl8Lt0DpbHAMidVq1ONWytrZviV3uFCwEoeqhIbvaOeRX/VJ5WED7xd4oRkilkGh+fNIs2ZxcL12ss5kvHByDNmWA4rrNpnAnuKnOLByUOdnDhwB43gDi/+MVnKXbobx5y1yeKIEqCEIAnXGNYPxTOWT2wE68jkno8q+sXxbDk/2y376lDY6i8bl5EPpKYHR8KDo6vTBOn8wZ3X1fHZB4q6n/v6rbcaqRlICohZoVPx2oqJK7vQNVuMzK6ngrK/8q8H7JCE+tkfrn49FbT4NOaYIrm0jFXasbaskkj3aHhciuYQjKJy9dZq6Nf333N+JDcg7e41vREvRG/ToU0pxZZEWnCI+z7qm1oxYndZcn9aoP9Oq45gp/n9WqLcYF1aVhNzvKQkFmxhdY"
       
       }
 
@@ -28,11 +42,11 @@
 
 
 
-"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...စမက်မလိုဘေလ်သုညနဲ့ ချိတ်ဆက်ရမည်",
 
-"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...စမက်မလိုဘေလ်သုညနဲ့ချိတ်ဆက်ရမည်",
 
-"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်...ပက်ကေ့ချ် ၂မျိုးဝယ်ပြီးမှချိတ်ဆက်ရမည်"
 
 
 
