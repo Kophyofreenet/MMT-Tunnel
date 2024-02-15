@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224351111",
 "Inter": "ca-app-pub-8283881532539011/3706821111",
-"version": 3,
+"version": 4,
 "message": "What's new \nAdded new server",
 
 "files": [
@@ -22,8 +22,8 @@
      
 },
 {
-         //server-FREE
-         "config": "e1XaVcNGzOs19inRoHSmd1B2BSopzAk30DoEcngA49HlZkhYYUfy9zv8I0OzPAJdET1ci3xRdWFm6fH8eUqyKrQaYLMmYJZVUKGRzpmgeaRPPdxBSbqcIo68mctWUZfbmzzG7RAb/HH+77YDIq4FRcvmZMyWF/Wi6gN3aeWgGzou5wFHPtTIOo5o0b0tIGrq807Z0AGbB2AK7bUxoGTf+iWax9PhJVlnEmlHHi7hmzDHyNOf/db8+JvuEgYXeVpKpmOEQ8PHLmJkIMQnZ9hEtpz2OZuWsktMmLXW3bu33tiL85hWvbZv2lsQT44bMLdG8SzDCAdJ14z7sX4rwoRNxPqjW+YaGScpI8DCqaeRZZ8Ixg98rei7aRNUwOznK27dK2fyOo+/aWyfaRzhMtRD8W9odFt2v4Rl5rbFkuhXPkW8M5La"
+         //server-အလကားသုံးရန်
+         "config": "g4JSv1fdICPwscVPAIHzoc16qNi1EVd4dx9qqB7uFmzssyfPug6EvjRlYMIwC/RKpHwNoL+8okHmbuA99zx8SKz5J1+G17qeOkUjA855qf2DrZzrfPT8eifcvvb87i6Mc4559CNx/5fBGe5cnWWi0T4MHva3ViKTKyUZwNkzNOMApJZlLTM8b8druLn41YfVWZijFgpzgTeSBuNr7DnxW2gUTyeZd3Hy/EexaizhklzObFg/qPPIaoF4TOsyCVtr4ZFztX+ObHJIZF7bKiLBzA0m6Pwo4nZGlgTgvVoQ8KrNZ1KuxkQ1mnyN0JD5PvJ0qCH/NLf0jpy051NgnNvZ8MNKf3tMHkBkUkVuj8vQNmInpWgHy0oaJpmCdzI4wOGNDoiSfz6e57FApbYcG3bSAztKkzPzLVC6uO33Iz1UH8DA2ZTS"
      
 },
 {
@@ -42,8 +42,8 @@
       
       },
 {
-        //server-FREE
-      "config": "e1XaVcNGzOs19inRoHSmd1B2BSopzAk30DoEcngA49HlZkhYYUfy9zv8I0OzPAJdET1ci3xRdWFm6fH8eUqyKrQaYLMmYJZVUKGRzpmgeaRPPdxBSbqcIo68mctWUZfbmzzG7RAb/HH+77YDIq4FRcvmZMyWF/Wi6gN3aeWgGzou5wFHPtTIOo5o0b0tIGrq807Z0AGbB2AK7bUxoGTf+iWax9PhJVlnEmlHHi7hmzDHyNOf/db8+JvuEgYXeVpKpmOEQ8PHLmJkIMQnZ9hEtpz2OZuWsktMmLXW3bu33tiL85hWvbZv2lsQT44bMLdG8SzDCAdJ14z7sX4rwoRNxPqjW+YaGScpI8DCqaeRZZ8Ixg98rei7aRNUwOznK27dK2fyOo+/aWyfaRzhMtRD8W9odFt2v4Rl5rbFkuhXPkW8M5La"
+        //server-အလကားသုံးရန်
+      "config": "L0LEhvJI6d4zPscMdRbZs0wb8KvgdHFmiBw+eshP6AvRHaIeJUBY0cA3q4ecEze5pJhM1BirJsnez4CvFiNOj0FyhLSc9YVYXmb7u5BtcUKZ+au45iKH1pEGY1NwHg2IKS1ZeS6OeoicPg8SIZlaFpcVSZKqOOEhxlTcwzczyEjpkjTJYXC2iyljUGPY2E6iiXVjUhdF3zehwjrnw0TjtOXqhMDvLwA6Hqd4Qa6UXklVbRfTExUjV/DQwkkWsCA2Z0Xsz8iN18N451iPmZ/M6cEGZf92Rf6vIUs6S7lsxcCbBu8FHq2QBdpLGvoUFNNtrbNAV67xE2FEU4qXjfepuZHWbqkxgWXVDZkT39szjxHZAin5FqRiLS7phzndvffvy+uJlmzP8ep9sqqL5cCnyneo0mbvly1bVsvZ8IwaP6VJS/RxYHbaXTfUNO8="
       
       },
 
@@ -63,8 +63,8 @@
       
       },
 {
-        //server-3
-      "config": "e1XaVcNGzOs19inRoHSmd1B2BSopzAk30DoEcngA49HlZkhYYUfy9zv8I0OzPAJdET1ci3xRdWFm6fH8eUqyKrQaYLMmYJZVUKGRzpmgeaRPPdxBSbqcIo68mctWUZfbmzzG7RAb/HH+77YDIq4FRcvmZMyWF/Wi6gN3aeWgGzou5wFHPtTIOo5o0b0tIGrq807Z0AGbB2AK7bUxoGTf+iWax9PhJVlnEmlHHi7hmzDHyNOf/db8+JvuEgYXeVpKpmOEQ8PHLmJkIMQnZ9hEtpz2OZuWsktMmLXW3bu33tiL85hWvbZv2lsQT44bMLdG8SzDCAdJ14z7sX4rwoRNxPqjW+YaGScpI8DCqaeRZZ8Ixg98rei7aRNUwOznK27dK2fyOo+/aWyfaRzhMtRD8W9odFt2v4Rl5rbFkuhXPkW8M5La"
+        //server-အလကားသုံးရန်
+      "config": "Ck+EyjwD3D9IFvK+oywvhzN8QNPh3Vc8SnC+9YpN0kpjGqLmrAUUAHWkDm9Nm8sxoB21FJ3eH6R56B/xJLMq0e+KwJBwNAE3Tg3zFRa8BW68CXGOO/dXH+4sQW00ChsPTnN+xoeKd038nyMvuvQrB+M02c6QnZclCzALumQJi5LJtLJXisOv7fHVgaVmrIZYTR6GDjeZAVxKXitxWMW5hzhxqGJosWpittvG8GEi4NPr/aV32y4rU2piANM5N0ab82zEn1qUSNON7xUZKXKLdXTKdToyLJY363bTTmsFPYKWv/l5DE2oM9OBFnYfdEh8kEjse+6F2nrHxre0TqT8U4qW0GdJSR0eMgAydCORtJVRhLZMHj0QpvsoWv9U2H/hy28U1/D4lQ1YO+8CSTJ4b85kHbcq21AVyJED10YVBgq7m1ls"
       
       }
    ],
