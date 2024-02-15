@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224351111",
 "Inter": "ca-app-pub-8283881532539011/3706821111",
-"version": 4,
+"version": 5,
 "message": "What's new \nAdded new server",
 
 "files": [
@@ -23,7 +23,7 @@
 },
 {
          //server-အလကားသုံးရန်
-         "config": "g4JSv1fdICPwscVPAIHzoc16qNi1EVd4dx9qqB7uFmzssyfPug6EvjRlYMIwC/RKpHwNoL+8okHmbuA99zx8SKz5J1+G17qeOkUjA855qf2DrZzrfPT8eifcvvb87i6Mc4559CNx/5fBGe5cnWWi0T4MHva3ViKTKyUZwNkzNOMApJZlLTM8b8druLn41YfVWZijFgpzgTeSBuNr7DnxW2gUTyeZd3Hy/EexaizhklzObFg/qPPIaoF4TOsyCVtr4ZFztX+ObHJIZF7bKiLBzA0m6Pwo4nZGlgTgvVoQ8KrNZ1KuxkQ1mnyN0JD5PvJ0qCH/NLf0jpy051NgnNvZ8MNKf3tMHkBkUkVuj8vQNmInpWgHy0oaJpmCdzI4wOGNDoiSfz6e57FApbYcG3bSAztKkzPzLVC6uO33Iz1UH8DA2ZTS"
+         "config": "Edw6iPDhp6iQltd2h2KSfeHmp1WIQKgKI1QTZLj84ncTn0B8ss8KPZf4U+Suis92luBXQNR4uVFMFDJXhgncxltKgWt4A8vJgSDqDtJNIXR7HmL7R/mjd0kuZqfTOUgQxo5U4rwmv0ZQCoO24H3du3xc7SipO7v/jDcpvdhP3SQsDkDb8s0C6FfUf8U7mJSgphZzmjoPFN2Nu3slSTe9VpRx6IUzUDkQ7KYiWFJbVIhNdIIGfIKhJ3ajDbOpubrbKhHWwlAaTv8NZ6kxN2yZkj9Encs6/tqBgAB8YD9Qq6dZUdq0gijKFI/ui1Jk9tucQLIq04NE/MPkF+J1wbdZaQoDLgMnL7LdclGiuFx99HkV+8VfSTkVkaxEalkqjav6qBns5R7AbbUNDOr5w5ZMapFSZHGfPVLxM8YoWZA3pE+gdG+aQPzNen7D7eA="
      
 },
 {
@@ -64,7 +64,7 @@
       },
 {
         //server-အလကားသုံးရန်
-      "config": "Ck+EyjwD3D9IFvK+oywvhzN8QNPh3Vc8SnC+9YpN0kpjGqLmrAUUAHWkDm9Nm8sxoB21FJ3eH6R56B/xJLMq0e+KwJBwNAE3Tg3zFRa8BW68CXGOO/dXH+4sQW00ChsPTnN+xoeKd038nyMvuvQrB+M02c6QnZclCzALumQJi5LJtLJXisOv7fHVgaVmrIZYTR6GDjeZAVxKXitxWMW5hzhxqGJosWpittvG8GEi4NPr/aV32y4rU2piANM5N0ab82zEn1qUSNON7xUZKXKLdXTKdToyLJY363bTTmsFPYKWv/l5DE2oM9OBFnYfdEh8kEjse+6F2nrHxre0TqT8U4qW0GdJSR0eMgAydCORtJVRhLZMHj0QpvsoWv9U2H/hy28U1/D4lQ1YO+8CSTJ4b85kHbcq21AVyJED10YVBgq7m1ls"
+      "config": "zhdj/+36M3QrBnisO1t7tvA2DQakYemXqxVlRPnwX/IauCnIQoL8dO2N1E7k15llx3S/I4ZzO375D4iQYN3kYscWO0niDrTOm1ITsdaiIdU+bVAcHMBcigOEqxkFQL/Mugwj+fxF41CEbk22CXb8g5o+o016AOxbbxESiQ/C18lZKmafWAPxVRmMpfo7JIVN0A3nFNdIpr+KcGQaS9U1CDY423yfeXys1LySGGWJfdK36Yjnl1p06e81MVQPEiCVkEohUmXIP0Lukc7M8JV1DRIPdReRCyy0KpYRV65EXPMwYPFnagMh4Zck4FD+XkOQczS2hk60VJBDT60/oLL7YW66wJYIRZd9gJtxuHWovycCfF7ahthsMry4APxl9tQdiFBb/JonptAgDyexetqeUKgUVXDrFt8MWCzTBBB/f6LOxdf4"
       
       }
    ],
