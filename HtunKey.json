@@ -19,7 +19,14 @@
 "Name":"နွယ်ယဥ်ဝင်း",
 "Key":"6fec3bf71a75e52e",
 "Valid":"30",
-"Expiration":"1\/04\/2025"
-}
+"Expiration":"1\/04\/2024"
+},
+
+{
+"Name":"စိုင်းငယ်",
+"Key":"793fdff4a251cdd6",
+"Valid":"30",
+"Expiration":"2\/04\/2024"
+} 
 
 ]
