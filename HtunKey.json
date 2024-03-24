@@ -28,13 +28,6 @@
 "Valid":"32",
 "Expiration":"04\/04\/2024"
 },
-  
-{
-"Name":"AungLwin",
-"Key":"c0edd620327ae3e9",
-"Valid":"27",
-"Expiration":"24\/03\/2024"
-},
 
 {
 "Name":"လှိုင်မင်းအောင်",
@@ -163,13 +156,6 @@
 },  
 
 {
-"Name":"မင်းခန့်ကျော်",
-"Key":"a3599eeb70ed4cfd",
-"Valid":"18",
-"Expiration":"23\/03\/2024"
-},  
-
-{
 "Name":"Angelic",
 "Key":"33f458e27547be89",
 "Valid":"30",
@@ -217,13 +203,6 @@
 "Valid":"30",
 "Expiration":"04\/04\/2024"
 },  
-  
-{
-"Name":"ဦးလေးကြီး",
-"Key":"b32cb01a4c4bfc3b",
-"Valid":"17",
-"Expiration":"23\/03\/2024"
-},  
 
 {
 "Name":"အောင်",
@@ -258,13 +237,6 @@
 "Key":"e1f2b6f76846c541",
 "Valid":"30",
 "Expiration":"07\/04\/2024"
-},  
-
-{
-"Name":"ZeRo",
-"Key":"16da80c2f0dab57e",
-"Valid":"9",
-"Expiration":"18\/03\/2024"
 },  
 
 {
