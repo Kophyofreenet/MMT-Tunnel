@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224351111",
 "Inter": "ca-app-pub-8283881532539011/3706821111",
-"version": 23,
+"version": 24,
 "message": "ဆာဗာအသစ်တွေရယူဖို့ \nUpdateစာကိုနှိပ်ပါဗျာ့😘",
 
 "files": [
@@ -133,6 +133,21 @@
         //ais-8
       "config": "NaKtgnKvg5SprOkl5HeC3j5kCGb3u+ooQQwzxlyWVY/FxpC4AQw22gDtl2caKHAKlQ8MXPEfw34lMoOXcsRI8ABm3uXCesUIOv9zq4tE/LFZqs9Qgw/4BqKGl2CfhAUsOxnU/qhb5KsRWYm4CqAmzlE0aRsFIoVX0D/2aI/6dd0C6lY6LwOZRMuLmimQxifd9jtmOGfNscvOZMxLtgbts8yGXthNzCYAaRXeblcDh4UCSX491y34BKUlqce377SELME+Tz0xo9sWEdBaBK34xxdhzKIYekHW2T8Radn1r926tqlewoaO46ZPOV5q8xdTp8SBqNHppZaj3qeTVtSwJENjH7m87eLhBHktFibqjgF8yE6oK2nMrIFghA6hv08qOGpCIbKXYmAKI54siQyIO2GV/eeJJpR+fwZ7lnbSDzUX8Wzu"
       
+  },
+{
+        //dtac-free
+      "config": "Fxt2F/RDQXTMZ80H4fP3vg/FllggylBLFoyD8ZZLWWW51bBjLO5ujnMV4RrSbpI48GJUgkXLYD+keKrGou/N1Rh0jdU3KB/pTjLfYzOQWZz7VVVSEYG7MyKXTXElgBZvO/Zhp1z6UkrId+7fqHqqugiHIXsiHd3snzkYqNfCHqP57X9DSQYA95zY6GiKlmFZUxkFH0eOtaLrudisA7qG12UKLthL+JDnu/ejscLArk1ecQ8ctTD0Uc2m6DfwQybTpSWfWtnKO3CMKeWtpPY4sqJbCPQC+90FGGLmgECmvahIvelp/cMfSakyPkq7QVFh0jvZOGeUohNoAJA8mtLtkzElT01sG9b1cAjYX1fAz3KrWOgAGeygdV2q/X8Zt9GXIa2IYmy2E1mO7TexeP4+1Q+9jjQxgyDlbKjb501nx8THfGgOFxx2cLzTnymrwIAisvXhdg=="
+      
+  },
+{
+        //true-free
+      "config": "wG+zOYmaHk8gKftnWR/iAjflORgBlOzMexAK1pxz9XB2/ifEwocQJioizA4cS/5krrEdMcaFg9uSK2wHl+KO22xPHPxX/wNIPfpHjQ7Dgl9sUzYEW1IGUH2Hao9hRqzVPJiD1z+EfUgrukVAEzeesPIbFehAMVxJnpkxLtuI9FK3ex1Ojxn3UTRNxKhTMUj/JxK3WRT8rpA3ObWlI0ILSSGlIpk68LKBPIz75wQVDzUCaE4HA/SV4558YX1J0bw2/Ritx97ulcaXoFs4xuYX49ZdymOYS3Gw5L92d+65MyMhl4Z0HFJ6WKF70BKNBZ/0P0xlNiohWeSZbQFSkTgAwJIXCpcOYvPo17ma8g0m+Z8H6xdzEM4PHsa93oliwSSnhuN7kRmhTlnM8lOjd5FQEWDvF4E6NlKAvwS6Uw=="
+      
+  },
+{
+        //ais-free
+      "config": "9mNtUa08ezWZeCgIcUCvO+5LIw6FW5KSI6sp0II68Yri+m+1+KBSHlaV8RWJFACtC3m7qO2EnmaIiQygX4UMfsk4pN2jL5YucdPLOBJGf+2iWfUHBe5TJbperQ8JONBSTJyGsM3OWycUttx3kPivjiK1P93a1827k4UoFe7Esb2tkyJ0b746MyvATIQ6OZMKb/Ti+sKJ/PhYCdFo4YPnBdF/egXf6mPgh3YAlo2s1qDiMQkPuJ6RVlMCJDyJmZPnQEZSFQOFSY5+XzTsE/MqbghVGRur6Rv9cB9vPJ3Eg/avqHPZzKf0xagvAtVKIdDYfeWrtp73gh/1BH3+yoMEXtZ7Iofo7gOW6mpkXpwlXHBlXuP0CbM9SbveGCNpNOMbHszhUFLp5v0UAkB8GbQfxZwqfpms7nwBiq7o/C8EPpKZ2N5QmSyfjw=="
+      
   }
 
    ],
@@ -147,4 +162,4 @@
 
 
 
-}
+         }
