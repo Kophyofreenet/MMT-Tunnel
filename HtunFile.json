@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224351111",
 "Inter": "ca-app-pub-8283881532539011/3706821111",
-"version": 24,
+"version": 25,
 "message": "ဆာဗာအသစ်တွေရယူဖို့ \nUpdateစာကိုနှိပ်ပါဗျာ့😘",
 
 "files": [
@@ -13,7 +13,7 @@
 },
 {
          //dtac-1
-         "config": "cUagqMvDjcGae2cyvFU021uo7QDZkR3IL5dp/WV7oAV8p90eXTDhNg3c72lq8JPLBI4rg7EG5GuEuZBRjCG562dASswkb2DP6d2L4hCDyamP991NTFWt2raNvfWd8KvZyU1DfgCd00Vm59Bq15Oq2vCt4cwZQ352SoDC8l6tnuzbaa0IHmz5KE4lxqvvhREVBDBMTqm6Z0ypF7VIkhBdm7UaRce0RSfpGpffCtGQ0kG5mwqafeuJIfvmHuIuYn4yZXHGebbU3xGjn9YolLE5OFr2Y6VgEXOwMg8wCtS5JaKuLtTxq56fKUByJEmfrfKEW1dIgKx55ZvaTR9QXIG3RQ7JTdMlVM1GDVpDLfeRRPlhFzNUC9ARRNrxIOJN5tutF26axreV1jfyvLcd069MnqS/4BCJHShNYurMQYzi+yfCv3ogIWV+77CbGJ6lYFp4HE+UiA=="
+         "config": "vOFgF4OMDq+Q70lHq9C3QF7e/3OTSUZ85p3piRUD3HeryofLyKwl3NwN4KiiS1AtF/iMV7T232uP0Z3WID/sDjLC+946EQP808ETaJPDiKKL4FuzKAVuh4iETJdU8affo/4S+oiPcwwqNTTWYWWyVm+BzIJujyZqm02RMYyFXpjmFXsdvwTPw53ldu/pr3VmUBRfw7F/ZOVauqCqbdctwBdTXPUZGegKHDHJJ1lTVrLuaqHN6NDNt742PVoLdM1o6IrtP5Qk2Ts767Gf7dXEmRzErT33UJ//DLhT2ZKwLNBQOuE21y8pJWm+cgAXAqL4AYDWoR5APq7qMYvzbGsb/MDZfGv0pCzOPZOlJPj2pHEP0snsltY4YTHmiomcnTcPGTWP8i3lZQsC6nd3uNynF4GfXlwoZz5+yy0fXnRSyPFvkDBFGTv6R84dAffdVvyhkQVsRA=="
      
 },
 {
@@ -84,7 +84,7 @@
  },
 {
         //true-7
-      "config": "oDyNrcWeL8wI+1J9wlPuTJiAslFiVohc2hxWJkmWz4ccikg/NwJ/Omb4KFY0/WvjKPuUWf8FkDv+0GflVm1GVMbWMEBOetH96CGWQS2FlbCI4MPZDpZ7GtjDCCzwQ9ASBXy5GP79KgZNEVLIenIyM3uXgds2HQFvcNy84SdaDkJMtb35eS75MtwkE3fAg9HLMNb5WEz6e/FSsL6HRcmAAPp8gL/EGi6LM7pLuirG93iA1iGY/zJFExMeGJ1tXX6353s3R+YoeroXYs7lW85tt7c40qUt+LYjjX9wi9KvQ+lw/XJhqtpBIDS5l6Jl2gQwARQI+6/YAgPpHvzKvmNmvljhlT3kQYJruXXel7rKh4pxEs6ItBZtt/oPrrMA6d87Ay/uuBqO/miHQoDDtaUPAB8iIWt3QnLNoY9UOg=="
+      "config": "T0mPc4fkVOPOHp7wPB4wAt6L4HJL0KOm6jD9qKyOjFp0t4hsf+jq0A508wq+v5Z61uye0iK46Z8oJ80EAKDQZXF9vnDk7xTR8nG+lllbICywKGNHtz7wz5jbryEVKwawLP37wWIp3VXqjT+qTcfniwS9xDPdEC7hyEmlDXEM8zKY1TeC9yQHgzj2si9Fn+h5PlbF1gyXcmzeMjuwj9w3euy8oBuTFDLF1I3hgi0iVOyMF9s7gIT8HueCgMJ7UoQ+M4Q/h3/XlIPN54kDoeKLgmEXdQX5xhBwuzCSgnnkZeMB0qv+XQ4IiiiBZZQh3RK1tboODZqp9DXCGVr1cO8JaEeAPiuyzc938DlBRwm3RnKcqzn7xAUBFjvMiJuDsAvMshlpyWKOrrUQomnFnUPMkhTOtyBpbYfRPe8xcrHztpg/kWyLFBdWZw=="
       
  },
 {
@@ -162,4 +162,4 @@
 
 
 
-         }
+}
