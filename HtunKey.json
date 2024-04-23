@@ -21,33 +21,12 @@
 "Valid":"365",
 "Expiration":"07\/05\/2025"
 },
-
-{
-"Name":"ဇော်လင်းထွေး",
-"Key":"497bb1cfe961dd88",
-"Valid":"31",
-"Expiration":"22\/05\/2024"
-},
-
-{
-"Name":"နိုင်အောင်ဆု",
-"Key":"5bd87246533844c4",
-"Valid":"30",
-"Expiration":"20\/05\/2024"
-},
-
-{
-"Name":"စစ်ဦးကျော်",
-"Key":"26e5baeb9dfb4419",
-"Valid":"30",
-"Expiration":"21\/05\/2024"
-},  
   
 {
-"Name":"အောင်ကို",
-"Key":"71b5a3878788a807",
+"Name":"zinmar",
+"Key":"2ca9644d76e6bc12",
 "Valid":"30",
-"Expiration":"20\/05\/2024"
+"Expiration":"23\/05\/2024"
 }
   
   
